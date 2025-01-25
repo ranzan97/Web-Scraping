@@ -1,4 +1,4 @@
-Web Scraper with Streamlit and Ollama
+**Web Scraper with Streamlit and Ollama**
 This project is a web scraping tool built using Streamlit for the user interface, Selenium for web scraping, and Ollama (via LangChain) for parsing and extracting specific information from the scraped content.
 
 Features
